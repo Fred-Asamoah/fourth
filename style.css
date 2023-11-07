@@ -1,0 +1,111 @@
+*{
+    padding: 0;
+    margin: 0px;
+}
+.first-container{
+    background-image: url(images/image1.jpg);
+    height: 390px;
+    padding: 270px 450px 50px 450px;
+    margin: 0px;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
+button{
+    text-align: center;
+    background-color: black;
+    padding: 20px;
+    color: white;
+    text-decoration: none;
+    font-size: larger;
+    font-weight: 15px;
+    width: 100%;
+}
+#section1{
+    background-color: white #f4f4f4;
+    color: black;
+    text-align: center;
+    margin-top: 0px;
+    padding-left: 70px;
+    padding-right: 70px;
+    line-height: 25px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+div{
+    display: block;
+}
+body{
+    color: white;
+}
+#section2{
+    background-image:url(images/image2\ \(1\).jpg);
+    height:100% ;
+    padding: 180px 205px 50px 200px;
+    margin: 0px;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    
+}
+#section2 p{
+    text-align: center;
+    color: white;
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.sectionb{
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-top: 0px;
+    padding-left: 85px;
+    padding-left: 85px;
+    line-height: 25px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+div{
+    display: block;
+}
+#cityimg{
+    background-image: url(images/image3.jpg);
+    height: 100px;
+    padding: 270px 450px 50px 450px;
+    margin: 0px;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
+#cityimg p{
+    text-align: center;
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    
+}
+.first-container{
+    background-image: url(images/image1.jpg);
+    height: 100px;
+    padding: 270px 450px 50px 450px;
+    margin: 0px;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    backdrop-filter: 455px;
+
+}
+
+
+    
+
+
+    
+
+
+
+
+
